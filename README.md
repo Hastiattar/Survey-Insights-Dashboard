@@ -1,5 +1,7 @@
 # Survey-Insights-Dashboard
 That the project involves analyzing surveys from people working in the technology 
+![Alt Text]()
+
 ## 1. General Information:
 Count of Survey Takers: 630 participants.
 Average Age of Survey Takers: 29.87 years.
